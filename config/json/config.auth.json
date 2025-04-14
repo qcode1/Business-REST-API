@@ -1,0 +1,10 @@
+{
+    "rest-api": {
+        "APP_ID": "ext_rest_api",
+        "API_KEY": {
+            "development": "gwgK1KvbLaMFJinJI3WhKdg4QHgKIyB08DuNSFJu1f5e6613",
+            "staging": "e9oAQ5V9afbOIYhDQV1joynv5Ar4fwtNm0UlYdcWbd33b30b",
+            "production": "YX9fYKBJU2WpvkMMuZqZUTDG99kJ6H6PChYRqh1D37a43175"
+        }
+    }
+}
